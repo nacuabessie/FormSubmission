@@ -1,0 +1,85 @@
+.createAcc {
+  width: 600px;
+  height: 555px;
+  position: absolute;
+  top:6%;
+  left: 5%;
+  border-radius: 50px;
+  border-style: solid;
+  background-color: #fcbf49;
+  }
+
+.createAcc label{
+    font-size: 19px;
+    left:10%;
+    font-weight: bold;
+    position: relative;
+    padding: 0%;
+    line-height: 150%;
+  }
+
+.createAcc textarea{
+  left:35%;
+  width: 60%;
+  position: relative;
+  font-size: 20px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #acb2f1;
+}
+
+select{
+  left:14%;
+  position: relative;
+  font-size: 17px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #acb2f1;
+}
+
+input[type="text"]{
+    height: 20px;
+    width: 35%;
+    left:35%;
+    position: absolute;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #acb2f1;
+}
+input[type="number"]{
+  height: 20px;
+  width: 35%;
+  left:35%;
+  position: absolute;
+  font-size: 16px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #acb2f1;
+}
+input[type="email"]{
+  height: 20px;
+  width: 35%;
+  left:35%;
+  position: absolute;
+  font-size: 16px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: #acb2f1;
+}
+
+button{
+  font-size: 15px;
+  width: 20%;
+    left:10%;
+    font-weight: bold;
+    position: relative;
+    padding: 0%;
+    line-height: 150%;
+  background-color: #acb2f1;
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+.user{
+    width: 600px;
+    height: 555px;
+    position: absolute;
+    top:6%;
+    left: 53%;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: #90e0ef;
+}
+
+.user p{
+    font-size: 19px;
+    left:10%;
+    font-weight: bold;
+    position: relative;
+    padding: 0%;
+    line-height: 150%;
+}
